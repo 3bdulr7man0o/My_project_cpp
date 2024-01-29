@@ -1,4 +1,4 @@
 # My_project_cpp
-All my project in cpp 
+c++ / main  
 
 ## important file 
